@@ -1,5 +1,14 @@
 /*/src/
 /*/pkg/
-/*/buzz/
+/*/opencode/
+/*/telegram-desktop/
+/*/telegram-tdlib/
+/*/telegram-tg_owt/
+/*/google.crc32c/
+/*/tlottie/
+/*/wallet-engine/
+/*/desktop-app-patches/
+/*/models.dev-api.json
+/*/*.zip
 /*/*.log
 /*/*.pkg.tar.*
